@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/aergd/awyui",
+  "repository": "https://github.com/aergd/awyui",
   "stack": "container"
  }
